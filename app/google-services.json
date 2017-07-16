@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "266712677032",
+    "firebase_url": "https://forceupdate-93f17.firebaseio.com",
+    "project_id": "forceupdate-93f17",
+    "storage_bucket": "forceupdate-93f17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266712677032:android:4f96ce13549a4c61",
+        "android_client_info": {
+          "package_name": "com.stevensiahaan.firebaseforceupdate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266712677032-eh9684jpflhsd8uj75vq1juv1ot9sj8u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stevensiahaan.firebaseforceupdate",
+            "certificate_hash": "197cfe4e2d7ec7c2bdcc1b3b252492daea865508"
+          }
+        },
+        {
+          "client_id": "266712677032-kotddooq5gp2hajbqb6mo9u8avrbke26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ0T-ngPiRUWis9O7qFR7kVOTHf4e8q6I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266712677032-kotddooq5gp2hajbqb6mo9u8avrbke26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
